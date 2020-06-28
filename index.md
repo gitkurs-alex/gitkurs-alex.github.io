@@ -8,4 +8,7 @@ Varianten dazu sind _huga_ oder _hugu_.
 * falls Geschlechtsunterscheidung erforderlich, ist Hugo männlich
 * das weibliche Pendant ist Huga, sächlich ist Hugu
 
-
+Hugo sagt:
+> No matter where you be, there you are.
+> The quick brown fox jumps over the lazy dog.
+> Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
