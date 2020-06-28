@@ -12,3 +12,8 @@ Hugo sagt:
 > No matter where you be, there you are.
 > The quick brown fox jumps over the lazy dog.
 > Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+
+
+Das ist eine mögliche Inkarnation von Hugo:
+<img src="https://libreshot.com/wp-content/uploads/2020/01/funny-goat-861x1291.jpg"/>
+
